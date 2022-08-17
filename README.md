@@ -3,9 +3,9 @@
 This repository contains the Javascript projects I have completed throughout my course.
 
 <ul>
-  <li><a href="Javascript/Pizza_Project/Pizza_Project.html">Pizza Project</a></li>
-  <li><a href="Javascript/TicTacToe/TicTacToe.html">Tic Tac Toe</a></li>
-   <li><a href="Javascript/Calculator/Calculator.html">Calculator</a></li>
+  <li><a href="Javascript/Pizza_Project.html">Pizza Project</a></li>
+  <li><a href="Javascript/TicTacToe.html">Tic Tac Toe</a></li>
+   <li><a href="Javascript/Calculator.html">Calculator</a></li>
 </ul>
 
 <h3>Pizza Menu</h3>
